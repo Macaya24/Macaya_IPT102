@@ -1,0 +1,12 @@
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\bin\Debug\net10.0\MacayaRepository.deps.json
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\bin\Debug\net10.0\MacayaRepository.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\bin\Debug\net10.0\MacayaRepository.pdb
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\MacayaRepository.csproj.AssemblyReference.cache
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\MacayaRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\MacayaRepository.AssemblyInfoInputs.cache
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\MacayaRepository.AssemblyInfo.cs
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\MacayaRepository.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\MacayaRepository.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\refint\MacayaRepository.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\MacayaRepository.pdb
+D:\MiranteIPT102\MacayaIPT102\MacayaRepository\obj\Debug\net10.0\ref\MacayaRepository.dll

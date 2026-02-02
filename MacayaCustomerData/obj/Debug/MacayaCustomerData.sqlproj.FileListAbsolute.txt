@@ -1,0 +1,10 @@
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\bin\Debug\MacayaCustomerData.dacpac
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\bin\Debug\MacayaCustomerData.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\bin\Debug\MacayaCustomerData.pdb
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\obj\Debug\MacayaCustomerData.sqlproj.AssemblyReference.cache
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\obj\Debug\Model.xml
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\obj\Debug\refactor.xml
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\obj\Debug\postdeploy.sql
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\obj\Debug\predeploy.sql
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\obj\Debug\MacayaCustomerData.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaCustomerData\obj\Debug\MacayaCustomerData.pdb

@@ -1,0 +1,15 @@
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\bin\Debug\net10.0\MacayaDomain.deps.json
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\bin\Debug\net10.0\MacayaDomain.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\bin\Debug\net10.0\MacayaDomain.pdb
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\bin\Debug\net10.0\MacayaRepository.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\bin\Debug\net10.0\MacayaRepository.pdb
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDomain.csproj.AssemblyReference.cache
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDomain.AssemblyInfoInputs.cache
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDomain.AssemblyInfo.cs
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDomain.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDo.4E0709B9.Up2Date
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDomain.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\refint\MacayaDomain.dll
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\MacayaDomain.pdb
+D:\MiranteIPT102\MacayaIPT102\MacayaDomain\obj\Debug\net10.0\ref\MacayaDomain.dll

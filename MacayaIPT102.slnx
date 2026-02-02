@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="MacayaCustomerData/MacayaCustomerData.sqlproj" Id="28f90e3a-0b5c-46ec-b49a-833ce8da1674">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="MacayaDomain/MacayaDomain.csproj" />
+  <Project Path="MacayaFramework/MacayaFramework.csproj" />
+  <Project Path="MacayaRepository/MacayaRepository.csproj" Id="0734e32b-11b8-4fd5-a920-6368761d6541" />
+</Solution>
